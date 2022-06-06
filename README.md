@@ -1,6 +1,6 @@
 # kwafiras
 
-##app name: kwafiras 
+## app name: kwafiras 
 
 
 www.kwafiras.com 
